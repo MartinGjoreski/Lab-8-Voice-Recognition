@@ -1,4 +1,4 @@
-# TensorFlow Lite Speech Command Recognition Android Demo
+# Laboratory Exercise based on the TensorFlow Lite Speech Command Recognition Android Demo
 
 ### Overview
 
